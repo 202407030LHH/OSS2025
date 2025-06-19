@@ -15,8 +15,6 @@ int main()
 	int y = 0;
 	int i = 0;
 
-	for (; i < 10; i++)
-	{
 		std::cout << "첫번째 수를 입력하세요 : ";
 		std::cin >> x;
 		std::cout << "두번째 수를 입력하세요 : ";
